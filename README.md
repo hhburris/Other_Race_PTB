@@ -1,4 +1,4 @@
-# Other_Race_PTB
+# Other_Race_PTB (uploaded as word document, suppressed n's <10)
 
 #code for manuscript accepted to J Perinatology, August 2024
 
